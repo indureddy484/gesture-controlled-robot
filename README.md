@@ -31,6 +31,10 @@ This robot moves based on hand gestures using a smartphone app and Bluetooth com
 ## 🔌 Circuit Diagram
 
 ![Circuit Diagram](circuit_diagram.jpg)
+## 🔌 Circuit Diagram
+
+![Robot Photo](robot_photo.jpg)
+
 
 
 ## 📄 License
