@@ -28,8 +28,10 @@ This robot moves based on hand gestures using a smartphone app and Bluetooth com
 - Connect HC-05 via Bluetooth
 - Use phone app to control
 
-## 📸 Images
-(Add photos or diagrams here)
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.jpg)
+
 
 ## 📄 License
 MIT License (optional)
